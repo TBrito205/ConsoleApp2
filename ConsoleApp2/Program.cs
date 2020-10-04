@@ -9,6 +9,8 @@ namespace ConsoleApp2
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Another line");
+
+            Console.WriteLine("ggg");
         }
     }
 }
